@@ -1,10 +1,9 @@
-# Bakhtawar-Kashif
 <h1 align="center">Hi 👋, I'm Bakhtawar Kashif</h1>
 <h3 align="center">Chip Design,AI, AUTOMATION, BIG DATA, Cloud Computing, AWS, EMBEDDED SYSTEMS, SOFTWARE Development, HARDWARE DESIGN, and IoT, COMPUTER ENGINEER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawar-kashif22&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawar-kashif22" /> </p>
 
-- 🌱 I’m currently learning **RISC-V,**
+- 🌱 I’m currently learning **RISC-V,Chip Design**
 
 - 💬 Ask me about **C-Programming, HARDWARE System Design (Verilog), Machine Learning**
 
